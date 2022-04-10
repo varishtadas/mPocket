@@ -9,6 +9,7 @@ Write 4 simple tests in a test automation suite.
 4. Remove a product from the cart. Verify the change.
 
 **Key Points to Note:**
+
 ● Your solution should be re-runnable an infinite number of times.
 ● Your test suite should contain a reusable “setup” script that runs before each test
 suite. (Guarantees that the web shop cart is in a predictable state.)
