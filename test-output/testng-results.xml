@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-10T14:48:29 IST" name="Default suite" finished-at="2022-04-10T14:49:19 IST" duration-ms="49662">
+    <groups>
+    </groups>
+    <test started-at="2022-04-10T14:48:29 IST" name="Default test" finished-at="2022-04-10T14:49:19 IST" duration-ms="49662">
+      <class name="com.amazon.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:29 IST" name="setUp" finished-at="2022-04-10T14:48:33 IST" duration-ms="3753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForProductAndVerifyList()[pri:1, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:33 IST" name="searchForProductAndVerifyList" finished-at="2022-04-10T14:48:37 IST" duration-ms="3859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForProductAndVerifyList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:37 IST" name="tearDown" finished-at="2022-04-10T14:48:37 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:37 IST" name="setUp" finished-at="2022-04-10T14:48:40 IST" duration-ms="2962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductToCardAndVerify()[pri:2, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:40 IST" name="addProductToCardAndVerify" finished-at="2022-04-10T14:48:50 IST" duration-ms="9583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCardAndVerify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:50 IST" name="tearDown" finished-at="2022-04-10T14:48:51 IST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:51 IST" name="setUp" finished-at="2022-04-10T14:48:54 IST" duration-ms="2972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="increaseItemsAndVerifyPrice()[pri:3, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:48:54 IST" name="increaseItemsAndVerifyPrice" finished-at="2022-04-10T14:49:04 IST" duration-ms="10207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- increaseItemsAndVerifyPrice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:49:04 IST" name="tearDown" finished-at="2022-04-10T14:49:05 IST" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:49:05 IST" name="setUp" finished-at="2022-04-10T14:49:08 IST" duration-ms="3309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="removeItemsAndVerifyPrice()[pri:4, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:49:08 IST" name="removeItemsAndVerifyPrice" finished-at="2022-04-10T14:49:18 IST" duration-ms="10206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItemsAndVerifyPrice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2e4b8173]" started-at="2022-04-10T14:49:18 IST" name="tearDown" finished-at="2022-04-10T14:49:19 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
